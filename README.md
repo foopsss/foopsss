@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @foopsss
-- 👀 I’m interested in programming and gaming
-- 🌱 I’m currently 
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+### Hello! 👋
+
+- 👋 Hi, I’m foopsss.
+- 🌱 I’m currently working on my hosts project and some personal scripts.
 
 <!---
 foopsss/foopsss is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
